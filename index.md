@@ -19,3 +19,7 @@ Receiving objects: 100% (100/100), 10.07 KiB | 1.01 MiB/s, done.
 Resolving deltas: 100% (25/25), done.
 
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
